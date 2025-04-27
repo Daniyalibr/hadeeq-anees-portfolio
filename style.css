@@ -85,6 +85,8 @@ body {
     object-fit: cover;
     width: 100%;
     transition: transform 0.5s ease;
+    overflow: hidden;
+    
     
 }
 
