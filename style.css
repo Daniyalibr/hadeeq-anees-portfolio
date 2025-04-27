@@ -55,8 +55,8 @@ body {
 }
 
 .contact-btn {
-    background-color: #757bc8;
-    color: white;
+    background-color: #757bc8 !important;
+    color: white !important;
     padding: 12px 30px;
     border: none;
     border-radius: 5px;
@@ -65,7 +65,7 @@ body {
 }
 
 .contact-btn:hover {
-    background-color: #757bc8   ;
+    background-color: #262c7a !important;
     transform: translateY(-2px);
 }
 
